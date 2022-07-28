@@ -1,3 +1,2 @@
-# MiChatAoo
 # MiChatApp
-# MiChatApp
+Realizado con socket.io
